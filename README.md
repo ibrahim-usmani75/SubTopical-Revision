@@ -38,5 +38,4 @@ Instead of manually flipping through dozens of past paper PDFs, this application
 │
 ├── 📄 app.py              # Main interactive CLI application script
 ├── 📄 questions.json      # Dataset containing structured 9618 past paper questions
-├── 📄 DOCUMENTATION.md    # In-depth project documentation & rubric breakdown
 └── 📄 README.md          # Project overview & usage guide (This file)
