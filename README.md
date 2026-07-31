@@ -1,4 +1,4 @@
-# A Leel Computer Science 9618 P1 Sub-Topical & Exam Tool
+# A Level Computer Science 9618 P1 Sub-Topical & Exam Tool
 
 A feature-rich, interactive command-line application designed to help Cambridge AS Level Computer Science (9618) students revise Paper 1 (Theory Fundamentals). 
 
